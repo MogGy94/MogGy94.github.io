@@ -16,8 +16,8 @@ image-sm: https://unsplash.it/500/300?image=1003
 </ul>
 
 
-<h3>Subway tile</h3>
-Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table <a href="#">street art</a> fixie,
+<h3>Intereses</h3>
+Computacion visual y desarrollo web asi como el desarrllo de videojuegos y la computacion aplicada a entornos multimedia <a href="#">street art</a> fixie,
 
 <figure>
   <img src="https://unsplash.it/2000/1200?image=1003" alt="Placeholder"/>
@@ -25,11 +25,11 @@ Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug.
 
 
 <blockquote>
-  Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
-  <cite>Man braid</cite>
+
+  <cite></cite>
 </blockquote>
 
-<h4>Subway tile</h4>
+<h4>:)</h4>
 
 <figure>
   <img src="https://unsplash.it/2000/1200?image=1003" alt="Placeholder"/>
