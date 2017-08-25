@@ -8,10 +8,10 @@ description:
 image: https://unsplash.it/2000/1200?image=1003
 image-sm: https://unsplash.it/500/300?image=1003
 ---
-Edilberto Cañon Estudiante de ingenieria de Sistemas y Computacion de la Universiadad Nacional de Colombia
+
 
 <ul>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
+  <li>Edilberto Cañon Estudiante de ingenieria de Sistemas y Computacion de la Universiadad Nacional de Colombia</li>
   <li>Church-key crucifix messenger bag health goth</li>
   <li>Try-hard artisan direct trade</li>
   <li>Cold-pressed selfies</li>
@@ -25,7 +25,7 @@ Edilberto Cañon Estudiante de ingenieria de Sistemas y Computacion de la Univer
 </ol>
 
 <h3>Subway tile</h3>
-Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table <a href="#">street art</a> fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.
+Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table <a href="#">street art</a> fixie,
 
 <figure>
   <img src="https://unsplash.it/2000/1200?image=1003" alt="Placeholder"/>
