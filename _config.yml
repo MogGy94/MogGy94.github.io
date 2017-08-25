@@ -7,15 +7,15 @@ google_analytics:
 
 # SEO settings
 title: "MogGy-Page"
-description:
+description: "Mi primer Citio web usando Jekyll"
 url: ""
 twitter_username:
 default_img:
 
 # Profile settings
-name:
+name: "Perfil"
 profile_img:
-profile:
+profile: "https://github.com/MogGy94/MogGy94.github.io/blob/master"
 social:
   github:
 
