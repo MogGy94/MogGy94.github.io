@@ -12,18 +12,18 @@ image-sm: https://unsplash.it/500/300?image=1003
 
 <ul>
   <li>Edilberto Cañon Estudiante de ingenieria de Sistemas y Computacion de la Universiadad Nacional de Colombia</li>
-  <li>Church-key crucifix messenger bag health goth</li>
+<!--  <li>Church-key crucifix messenger bag health goth</li>
   <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
+  <li>Cold-pressed selfies</li>-->
 </ul>
 
 <ol>
-
+<!--
   <li>Church-key crucifix messenger bag health goth</li>
   <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
+  <li>Cold-pressed selfies</li>-->
 </ol>
-
+<!--
 <h3>Subway tile</h3>
 Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table <a href="#">street art</a> fixie,
 
@@ -43,3 +43,4 @@ Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug.
   <img src="https://unsplash.it/2000/1200?image=1003" alt="Placeholder"/>
   <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
 </figure>
+-->
