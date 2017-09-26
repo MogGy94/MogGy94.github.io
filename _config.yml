@@ -13,11 +13,11 @@ twitter_username:
 default_img:
 
 # Profile settings
-name: "Perfil"
-profile_img:
-profile: "https://github.com/MogGy94/MogGy94.github.io/blob/master"
+name: "Edilberto Cañon"
+profile_img: /assets/imges/sejuporo.jpg
+profile: Estudiante de ingenieria de sistemas y computacion de la universidad nacional de comlombia
 social:
-  github:
+ github: "https://github.com/MogGy94/MogGy94.github.io"
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
